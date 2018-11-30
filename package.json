@@ -1,0 +1,28 @@
+{
+  "name": "examen-01",
+  "version": "1.0.0",
+  "description": "## 1) Busque los tipos de \"types\" en el arreglo `data.json` ```typescript const arregloRespuestaTypes =[     {         tipo:'grass',     },     {         tipo:'ground',     } ]; ``` ## 2) Busque los tipos de \"abilities\" en el arreglo `data.json` ```typescript const arregloRespuestaAbilities =[     {         nombre:'leaf-guard',     },     {         nombre:'overgrow',     } ]; ``` ## 3) Busque los tipos de \"move\" en el arreglo `data.json`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2018-B-GR1-TecnologiasWebConJavascript/examen_IB_izurieta_francisco.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2018-B-GR1-TecnologiasWebConJavascript/examen_IB_izurieta_francisco/issues"
+  },
+  "homepage": "https://github.com/2018-B-GR1-TecnologiasWebConJavascript/examen_IB_izurieta_francisco#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "rxjs": "^6.3.3"
+  },
+  "devDependencies": {
+    "@types/inquirer": "0.0.43",
+    "@types/node": "^10.12.5"
+  }
+}
